@@ -8394,10 +8394,9 @@ h1, h2, h3, h4, h5,
       opacity: 0;
       display: none; } }
 
-
       .text {
-        padding-top: 10vw;
         height: 750px;
+        padding-top: 10vw;
         z-index: 0; }
         @media (max-width: 991.98px) {
           .text {
