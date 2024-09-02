@@ -8396,7 +8396,7 @@ h1, h2, h3, h4, h5,
 
       .text {
         height: 750px;
-        padding-top: 10vw;
+        padding-top: 10vw !important;
         z-index: 0; }
         @media (max-width: 991.98px) {
           .text {
