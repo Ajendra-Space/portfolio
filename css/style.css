@@ -8461,14 +8461,14 @@ h1, h2, h3, h4, h5,
                 max-width: 50%;
                 padding-left: 45px;
                 padding-right: 3em; } }
-        .text .subheading {
+        .subheading {
           color: #000000;
           font-weight: 600;
           font-size: 14px;
           letter-spacing: 3px;
           text-transform: uppercase;
           color: #ffbd39; }
-        .text .text {
+        .text {
           position: relative;
           z-index: 1; }
         .text h1 {
